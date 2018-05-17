@@ -1,0 +1,8 @@
+[package]
+name = "grep"
+version = "0.1.0"
+authors = ["Lachezar Lechev <elpiel93@gmail.com>"]
+
+[dependencies]
+regex = "1.0.0"
+lazy_static = "1.0.0"
